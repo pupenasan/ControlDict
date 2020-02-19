@@ -1,0 +1,6 @@
+| ENG                                                          | УКР                                                          | Примітка |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| **Screen**                                                   | **Екран**                                                    |          |
+| The part of the monitor that shows an image. See Figure 1.  NOTE See Resolution. NOTE Some computer operating systems support a software “screen" (desktop) spanning multiple monitors, but for the purposes of this standard, a screen iis the part of a single monitor on which displays are shown. | Частина монітора, яка показує зображення. Див. рис.1. ПРИМІТКА Деякі комп'ютерні операційні системи підтримують програмний "екран" (робочий стіл), що охоплює декілька моніторів, але для цілей цього стандарту екран є частину єдиного монітора, на якому відображаються дисплеї. |          |
+
+![](media/1.png)
